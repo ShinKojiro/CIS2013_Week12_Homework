@@ -7,6 +7,9 @@ class Mine_Sweeper{
 
     private:
 
+        int boardSize;
+        int boardRows;
+        int boardColumns;
         
 
     public:
